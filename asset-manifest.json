@@ -1,13 +1,18 @@
 {
   "files": {
-    "main.css": "/image-slider-react/static/css/main.c4725029.css",
-    "main.js": "/image-slider-react/static/js/main.e2591c54.js",
+    "main.css": "/image-slider-react/static/css/main.dcde6219.css",
+    "main.js": "/image-slider-react/static/js/main.90891f19.js",
+    "static/media/04.jpg": "/image-slider-react/static/media/04.4fd6fa08b93d4a4782c1.jpg",
+    "static/media/03.jpg": "/image-slider-react/static/media/03.b5eccfa90c836cca41c0.jpg",
+    "static/media/02.jpg": "/image-slider-react/static/media/02.da319dfb9889b63e8400.jpg",
+    "static/media/05.jpg": "/image-slider-react/static/media/05.3df7e2c7d4423d229b2c.jpg",
+    "static/media/01.jpg": "/image-slider-react/static/media/01.820057ea8ab16dda3f8a.jpg",
     "index.html": "/image-slider-react/index.html",
-    "main.c4725029.css.map": "/image-slider-react/static/css/main.c4725029.css.map",
-    "main.e2591c54.js.map": "/image-slider-react/static/js/main.e2591c54.js.map"
+    "main.dcde6219.css.map": "/image-slider-react/static/css/main.dcde6219.css.map",
+    "main.90891f19.js.map": "/image-slider-react/static/js/main.90891f19.js.map"
   },
   "entrypoints": [
-    "static/css/main.c4725029.css",
-    "static/js/main.e2591c54.js"
+    "static/css/main.dcde6219.css",
+    "static/js/main.90891f19.js"
   ]
 }
