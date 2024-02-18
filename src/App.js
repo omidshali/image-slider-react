@@ -23,7 +23,7 @@ function App() {
     <div className="flex flex-col w-full h-screen m-auto justify-center items-center bg-gradient-to-t from-[#5ee7df] to-[#b490ca] p-4 pb-16">
       <div className="relative max-w-[1640px] w-full h-full shadow-xl ">
         <div
-          className="bg-cover bg-center duration-1000 w-full h-full rounded-xl "
+          className="bg-cover bg-center duration-500 w-full h-full rounded-xl "
           style={{
             backgroundImage: `url(${images[currentIndex]})`,
           }}
